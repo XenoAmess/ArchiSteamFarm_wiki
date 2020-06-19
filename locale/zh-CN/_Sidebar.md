@@ -38,9 +38,9 @@
 * **[低内存方案](https://github.com/JustArchiNET/ArchiSteamFarm/wiki/Low-memory-setup-zh-CN)**
 * **[插件](https://github.com/JustArchiNET/ArchiSteamFarm/wiki/Plugins-zh-CN)**
 * **[安全性](https://github.com/JustArchiNET/ArchiSteamFarm/wiki/Security-zh-CN)**
-* **[Steam Token 转存插件](https://github.com/JustArchiNET/ArchiSteamFarm/wiki/SteamTokenDumperPlugin)**
-* **[第三方项目](https://github.com/JustArchiNET/ArchiSteamFarm/wiki/Third-party)**
-* **[两步验证](https://github.com/JustArchiNET/ArchiSteamFarm/wiki/Two-factor-authentication)**
+* **[Steam Token 转存插件](https://github.com/JustArchiNET/ArchiSteamFarm/wiki/SteamTokenDumperPlugin-zh-CN)**
+* **[第三方项目](https://github.com/JustArchiNET/ArchiSteamFarm/wiki/Third-party-zh-CN)**
+* **[两步验证](https://github.com/JustArchiNET/ArchiSteamFarm/wiki/Two-factor-authentication-zh-CN)**
 
 ## 开发者
 
